@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Elena01001/Elena01001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Всем привет! Я Елена Смелкова, Android разработчик на Kotlin со знанием Java
 
-Here are some ideas to get you started:
+#### Вот что я умею:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Дипломный проект. Приложение "Мои рецепты" (Kotlin, Android)](https://github.com/Elena01001/NeRecipe)
+- [Приложение "Посты" (Kotlin, Android)](https://github.com/Elena01001/Android-Posts-App)
+- [Проект "Чаты" (Kotlin)](https://github.com/Elena01001/Chats)
+- [Проект "Конвертер в текстовую графику" (Java)](https://github.com/Elena01001/TextGraphicsConverter)
+
+#### Мои контакты:
+
+- Mob: +79191024146
+- Telegram: [LuckElena](https://t.me/LuckElena)
+- Email: elena4s0ul@gmail.com
+
+
