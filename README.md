@@ -6,8 +6,8 @@
 
 - [Дипломный проект. Приложение "Мои рецепты" (Kotlin, Android)](https://github.com/Elena01001/NeRecipe)
 - [Приложение "Посты" (Kotlin, Android)](https://github.com/Elena01001/Android-Posts-App)
-- [Проект "Чаты" (Kotlin)](https://github.com/Elena01001/Chats)
-- [Проект "Конвертер в текстовую графику" (Java)](https://github.com/Elena01001/TextGraphicsConverter)
+- [Мини-проект "Чаты" (Kotlin)](https://github.com/Elena01001/Chats)
+- [Мини-проект "Конвертер в текстовую графику" (Java)](https://github.com/Elena01001/TextGraphicsConverter)
 
 #### Мои контакты:
 
