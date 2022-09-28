@@ -12,7 +12,7 @@
 
 #### Диплом:
 
-- [Android-разработчик](https://user-images.githubusercontent.com/98683741/192765477-22a4b3c8-e90d-461e-ab87-eeb64d03ec6a.jpg)
+- [Android-разработчик](https://github.com/Elena01001/Android-Developer-Diploma)
 
 #### Мои контакты:
 
