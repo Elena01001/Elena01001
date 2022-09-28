@@ -10,9 +10,9 @@
 - [Мини-проект "Чаты" (Kotlin)](https://github.com/Elena01001/Chats)
 - [Мини-проект "Конвертер в текстовую графику" (Java)](https://github.com/Elena01001/TextGraphicsConverter)
 
-#### Сертификат:
+#### Диплом:
 
-- [Android-разработчик](https://github.com/Elena01001/Android-Developer-Certificate/tree/main)
+- [Android-разработчик](https://user-images.githubusercontent.com/98683741/192765477-22a4b3c8-e90d-461e-ab87-eeb64d03ec6a.jpg)
 
 #### Мои контакты:
 
