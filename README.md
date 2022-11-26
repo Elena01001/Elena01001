@@ -10,9 +10,10 @@
 - [Мини-проект "Чаты" (Kotlin)](https://github.com/Elena01001/Chats)
 - [Мини-проект "Конвертер в текстовую графику" (Java)](https://github.com/Elena01001/TextGraphicsConverter)
 
-#### Диплом:
+#### Дипломы:
 
 - [Android-разработчик](https://github.com/Elena01001/Android-Developer-Diploma)
+- [Серебряный призер хакатона от Транспортных Инноваций Москвы](https://github.com/Elena01001/Go-Code-Hack-Diploma)
 
 #### Мои контакты:
 
