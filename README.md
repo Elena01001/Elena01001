@@ -4,8 +4,8 @@
 
 #### Мои проекты (кроме рабочих):
 
-- [Приложение "Firebase авторизация" (Swift, IOS)](https://github.com/Elena01001/FirebaseAuthIOSApp)
 - [Приложение "Книги GoogleBooksApi" (Kotlin, Android)](https://github.com/Elena01001/Books)
+- [Приложение "Firebase авторизация" (Swift, IOS)](https://github.com/Elena01001/FirebaseAuthIOSApp)
 - [Приложение "AnimeList" (Kotlin, Android)](https://github.com/MeeWeeL/AnimeListOnKotlin)
 - [Дипломный проект. Приложение "Мои рецепты" (Kotlin, Android)](https://github.com/Elena01001/NeRecipe)
 - [Приложение "Посты" (Kotlin, Android)](https://github.com/Elena01001/Android-Posts-App)
